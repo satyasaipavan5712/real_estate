@@ -1,5 +1,8 @@
-# real-estate
-it's real estate app written in Django and Python
+# Real-EState-Website
+Real Estate website for buying and selling houses made using django and bootstrap4. Any user can register and make a listing for selling a property
 
+developed using python
 
-![Image of app](https://github.com/rohammosalli/real-estate/blob/master/home.png)
+![](https://raw.githubusercontent.com/manumanoj0010/Real-State-Website/master/Screenshot.png)
+
+`Demo Video` : <https://youtu.be/Or06u-DSFfY>
